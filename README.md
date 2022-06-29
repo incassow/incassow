@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @incassow
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning Linux
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
